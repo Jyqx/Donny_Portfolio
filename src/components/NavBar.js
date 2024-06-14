@@ -46,10 +46,10 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="https://www.linkedin.com/in/luke-donaldson-scott-55549a30b/"> <img src={navIcon1} alt ="Linkedin"/> </a>
-              <a href="https://jyqx.itch.io/"> <img src={navIcon2} alt ="Itch.io"/> </a>
-              <a href="https://www.artstation.com/jyqx"> <img src={navIcon3} alt ="ArtStation"/> </a>
-              <a href="https://github.com/Jyqx"> <img src={navIcon4} alt =""/> </a>
+              <a href="https://www.linkedin.com/in/luke-donaldson-scott-55549a30b/" target="_blank"> <img src={navIcon1} alt ="Linkedin"/> </a>
+              <a href="https://jyqx.itch.io/" target="_blank"> <img src={navIcon2} alt ="Itch.io"/> </a>
+              <a href="https://www.artstation.com/jyqx" target="_blank"> <img src={navIcon3} alt ="ArtStation"/> </a>
+              <a href="https://github.com/Jyqx" target="_blank"> <img src={navIcon4} alt =""/> </a>
             </div>
             <button className="vvd" onClick={() => console.log('resume')}><span>My Resume</span></button>
           </span>

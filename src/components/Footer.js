@@ -15,10 +15,10 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="#"><img src={navIcon1} alt="Icon" /></a>
-              <a href="#"><img src={navIcon2} alt="Icon" /></a>
-              <a href="#"><img src={navIcon3} alt="Icon" /></a>
-              <a href="#"><img src={navIcon4} alt="Icon" /></a>
+              <a href="https://www.linkedin.com/in/luke-donaldson-scott-55549a30b/" target="_blank"> <img src={navIcon1} alt ="Linkedin"/> </a>
+              <a href="https://jyqx.itch.io/" target="_blank"> <img src={navIcon2} alt ="Itch.io"/> </a>
+              <a href="https://www.artstation.com/jyqx" target="_blank"> <img src={navIcon3} alt ="ArtStation"/> </a>
+              <a href="https://github.com/Jyqx" target="_blank"> <img src={navIcon4} alt =""/> </a>
             </div>
             <p>Copyright 2024. All Rights Reserved</p>
           </Col>

@@ -10,9 +10,9 @@ export const Projects = () => {
     {
       title: "Way of the Blade",
       description: "A Sekiro inspired VR game",
-      imgUrl: projImg1,
+      imgUrl: projImg3,
       program: "Unity",
-      itchLink: "https://example.com/game1",
+      itchLink: "https://jyqx.itch.io/way-of-the-blade",
       gameType: "VR",
     },
     {
@@ -20,13 +20,13 @@ export const Projects = () => {
       description: "A VR space escape room game",
       imgUrl: projImg2,
       program: "Unity",
-      itchLink: "https://example.com/game2",
+      itchLink: "https://jyqx.itch.io/the-observatory",
       gameType: "VR",
     },
     {
       title: "DictatorShips",
       description: "A story-driven dicator dating simulator",
-      imgUrl: projImg3,
+      imgUrl: projImg1,
       program: "Unity",
       itchLink: "https://benwantsfries.itch.io/dictatorships",
       gameType: "2D",
