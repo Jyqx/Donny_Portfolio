@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Donny_Portfolio/static/css/main.6f1521ca.css",
-    "main.js": "/Donny_Portfolio/static/js/main.7f47a7c2.js",
+    "main.css": "/Donny_Portfolio/static/css/main.e8584fa6.css",
+    "main.js": "/Donny_Portfolio/static/js/main.b4a94179.js",
     "static/js/453.aaeeb63b.chunk.js": "/Donny_Portfolio/static/js/453.aaeeb63b.chunk.js",
     "static/media/color-sharp.png": "/Donny_Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Donny_Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/project-img3.png": "/Donny_Portfolio/static/media/project-img3.6c5549362720eb6f013d.png",
+    "static/media/project-img3.png": "/Donny_Portfolio/static/media/project-img3.91e8b4bae8ada9a21233.png",
     "static/media/project-img1.png": "/Donny_Portfolio/static/media/project-img1.c3d3c3fabaed1d20cd66.png",
     "static/media/banner-bg.png": "/Donny_Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Donny_Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
@@ -28,12 +28,12 @@
     "static/media/arrow2.svg": "/Donny_Portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Donny_Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon3.svg": "/Donny_Portfolio/static/media/nav-icon3.ef05271c3b6f647e2932784e50d61076.svg",
-    "main.6f1521ca.css.map": "/Donny_Portfolio/static/css/main.6f1521ca.css.map",
-    "main.7f47a7c2.js.map": "/Donny_Portfolio/static/js/main.7f47a7c2.js.map",
+    "main.e8584fa6.css.map": "/Donny_Portfolio/static/css/main.e8584fa6.css.map",
+    "main.b4a94179.js.map": "/Donny_Portfolio/static/js/main.b4a94179.js.map",
     "453.aaeeb63b.chunk.js.map": "/Donny_Portfolio/static/js/453.aaeeb63b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f1521ca.css",
-    "static/js/main.7f47a7c2.js"
+    "static/css/main.e8584fa6.css",
+    "static/js/main.b4a94179.js"
   ]
 }
